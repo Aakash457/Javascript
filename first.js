@@ -1,5 +1,5 @@
 // console.log('This is the first JavaScript file.');  
-console.log('This is the first line of my JavaScript file.');
+// console.log('This is the first line of my JavaScript file.');
 
 // let c = 90
 // c = 100
@@ -14,4 +14,51 @@ console.log('This is the first line of my JavaScript file.');
 // let c = 30 
 // console.log(a*b+c)
 
+// let _a = 100 
+// console.log(_a) 
 
+
+// let name = 'Aman'
+// let age = 20
+// let x = true
+// if (x){
+//     console.log(`hi my name is ${name} and my age is ${age} `)
+// }else{
+//     console.log("you are enter in else loop.")
+// }
+
+
+// function test() {
+// 	let bool = true;
+//     let x = 100
+// 	if (bool) {
+// 	    let x = 30;
+//         var y = 40;
+// 		console.log("x = " + x + ", y = " + y );
+// 		}
+// 		 // x can't be accessible here
+// 	console.log("y = " + y,x);
+// 	}
+// test();
+
+
+// console.log(b)
+// let b = 10
+
+
+// sayHi();  
+
+// function sayHi() {
+//   console.log("Hello!");
+// }
+
+
+// // sayHello();  // ❌ TypeError
+// var sayHello = function() {
+//   console.log("Hello!");
+// };
+
+
+a = 50 
+b = '30'
+console.log(a>=b)
