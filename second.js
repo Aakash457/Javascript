@@ -64,3 +64,23 @@
 //     console.log("hello world");
 // }
 // console.log(typeof myfunction)
+
+//stack memory is used for (primitive datatype) heap memory is used for (non primitive datatype)
+
+
+// this is primitive example means here the copy of  value is given change on one not reflect the another
+// let a = "aakash"
+// let b = a
+// b = "yadav"
+// console.log(a)
+// console.log(b)
+
+
+let a = {
+    name : "Aakash",
+    age : 23
+}
+let b = a
+b.age = 100
+console.log(b)
+console.log(a)

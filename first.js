@@ -59,6 +59,26 @@
 // };
 
 
-a = 50 
-b = '30'
-console.log(a>=b)
+// a = 50 
+// b = '30'
+// console.log(a>=b)
+
+
+//-->datatype 
+// primitive means basic --> store simple value
+// Number => 2 to power 53
+// BigInt => for very large Number
+// String => ""
+// Boolean => true or false
+// null => standalone value
+// undefined => value not define
+// Symbol => to find the uniqueness
+
+
+// non primitive means complex value --> store complex value
+// Object
+// Array
+// function
+
+
+// typeof (here null type is Object) 
