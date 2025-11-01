@@ -76,11 +76,13 @@
 // console.log(b)
 
 
-let a = {
-    name : "Aakash",
-    age : 23
-}
-let b = a
-b.age = 100
-console.log(b)
-console.log(a)
+// this is non primitive example means here the refference of  value is given change on one  reflect the another
+// let a = {
+//     name : "Aakash",
+//     age : 23
+// }
+// let b = a
+// b.age = 100
+// console.log(b)
+// console.log(a)
+
