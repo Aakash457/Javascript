@@ -154,8 +154,8 @@ const k = (num1, num2) => (num1+num2)
 
 })("Aakash")
 
-difference between the regular function and arroww function 
-1. argument : the regular function has acess to the argument while arroww function doesnt
-2. implicte return : normal function does not use implicte return while arroww function does
-3. this : normal function use this which point to there current context while arroww function does not have there context
+// difference between the regular function and arroww function 
+// 1. argument : the regular function has acess to the argument while arroww function doesnt
+// 2. implicte return : normal function does not use implicte return while arroww function does
+// 3. this : normal function use this which point to there current context while arroww function does not have there context
 
